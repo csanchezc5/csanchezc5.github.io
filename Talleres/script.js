@@ -16,3 +16,7 @@ function eliminar_elemento() {
     content.removeChild(content.lastElementChild)
     contador--
 }
+
+function seleccionar_opcion (opcion){
+    
+}
